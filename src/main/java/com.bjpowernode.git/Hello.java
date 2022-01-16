@@ -7,6 +7,8 @@
  */
 package com.bjpowernode.git;
 
+import javax.sound.midi.SoundbankResource;
+
 /**
  * <p>NAME: Hello</p>
  * @author zyy28
@@ -16,5 +18,6 @@ package com.bjpowernode.git;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("aaaa");
     }
 }
